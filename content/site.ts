@@ -10,7 +10,7 @@ export const siteConfig = {
     groom: "Mark Allison Cada", //Ltryl B. Benitez
     groomNickname: "Mark",
     monogram:"/monogram/monogram-new.png" ,//Ltryl
-    backgroundMusic:"/background_music/Sea Waves - Sound Effect.mp4"
+    backgroundMusic:"/background_music/Panalangin (WITH TAB) Moonstar88  Fingerstyle Guitar Cover  Lyrics.mp3"
   },
   googleAPI:{
     messageForm: "https://docs.google.com/forms/d/e/1FAIpQLScwEUSUyxUUWQDHIW738kciHPBA_lRMEas0X4rN44dFuv6PmQ/formResponse",   //done
